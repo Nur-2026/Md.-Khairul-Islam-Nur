@@ -1,8 +1,8 @@
 # Categorical Analysis – Course Code 4104
 
 ## Author Information
-- **Name:** S M Rezanur Siddik  
-- **Student ID:** 12110040  
+- **Name:** Khairul Islam Nur  
+- **Student ID:** 12110009 
 
 ---
 
